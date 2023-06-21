@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+h1
+{
+	font-family:Castellar;
+	font-weight:700;
+	font-stretch:normal;
+	font-size:x-large;
+	font-style:normal;
+	color:#00CCFF;
+	alignment-adjust:before-edge;
+	text-height:max-size;
+	
+}
+p.gmail
+{
+	letter-spacing:normal;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:30px;
+	color:#FFF;
+}
+a.email1
+{
+	font-size:24px;
+	font-family:"Rockwell Condensed";
+	color:#0FF;
+}
